@@ -66,7 +66,8 @@ make clean    # Nettoyage      — dist/, cache Vite, artefacts firmware
 ## Mode Simulation (sans matériel)
 
 ```bash
-make dev
+npm install
+npm run dev
 ```
 
 Ouvrir **http://localhost:5173** — tous les modules fonctionnent sans ESP32.
