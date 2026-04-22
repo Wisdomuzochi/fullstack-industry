@@ -68,6 +68,8 @@ make clean    # Nettoyage      — dist/, cache Vite, artefacts firmware
 ```bash
 npm install
 npm run dev
+   ou
+make dev
 ```
 
 Ouvrir **http://localhost:5173** — tous les modules fonctionnent sans ESP32.
